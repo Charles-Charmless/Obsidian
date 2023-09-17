@@ -18,8 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de86dbf0a7b32ad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电源.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d8d4727555c2ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Layout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d14c876954f77e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DDR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ab8b375f9df8aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Layout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bc7845a18f9d772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCIE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SI.md",
+                "file": "PCIE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SI.md",
+                "file": "PCIE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SI.md"
+                "file": "PCIE.md"
               }
             }
           }
@@ -134,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,9 +208,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3be66a75eb01af8a",
+  "active": "0bc7845a18f9d772",
   "lastOpenFiles": [
+    "Layout.md",
+    "PCIE.md",
+    "时钟.md",
+    "DDR.md",
+    "Picture/Pasted image 20230917173719.png",
+    "射频.md",
+    "电源.md",
+    "Picture/Pasted image 20230917173559.png",
+    "Picture",
     "SI.md",
+    "Picture/Pasted image 20230917171447.png",
+    "Picture/Pasted image 20230917171403.png",
     "README.md",
     "未命名 5.canvas",
     "未命名 4.canvas",
