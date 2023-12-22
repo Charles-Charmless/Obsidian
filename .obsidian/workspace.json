@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HFSS.md",
+                "file": "电源.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HFSS.md",
+                "file": "电源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HFSS.md",
+                "file": "电源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HFSS.md"
+                "file": "电源.md"
               }
             }
           }
@@ -149,14 +149,15 @@
   },
   "active": "47d12c0017483495",
   "lastOpenFiles": [
-    "PCIE.md",
-    "HFSS.md",
-    "Layout.md",
     "时钟.md",
-    "DDR.md",
-    "Picture/Pasted image 20230917173719.png",
     "射频.md",
     "电源.md",
+    "Top.md",
+    "HFSS.md",
+    "PCIE.md",
+    "Layout.md",
+    "DDR.md",
+    "Picture/Pasted image 20230917173719.png",
     "Picture/Pasted image 20230917173559.png",
     "Picture",
     "SI.md",
