@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电源.md",
+                "file": "时钟.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电源.md",
+                "file": "时钟.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电源.md",
+                "file": "时钟.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电源.md"
+                "file": "时钟.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "47d12c0017483495",
   "lastOpenFiles": [
+    "电源.md",
     "时钟.md",
     "射频.md",
-    "电源.md",
     "Top.md",
     "HFSS.md",
     "PCIE.md",
