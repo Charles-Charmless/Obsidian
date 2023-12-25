@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7c191f02a643cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archlinux  LNMP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "时钟.md",
+                "file": "archlinux  LNMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "时钟.md",
+                "file": "archlinux  LNMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "时钟.md"
+                "file": "archlinux  LNMP.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "47d12c0017483495",
+  "active": "c7c191f02a643cbb",
   "lastOpenFiles": [
-    "电源.md",
     "时钟.md",
+    "archlinux  LNMP.md",
+    "电源.md",
     "射频.md",
     "Top.md",
     "HFSS.md",
