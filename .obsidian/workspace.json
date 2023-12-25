@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archlinux  LNMP.md",
+                "file": "知识库.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 644.5
   },
   "right": {
     "id": "8ea5532d797d1b26",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archlinux  LNMP.md",
+                "file": "知识库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archlinux  LNMP.md",
+                "file": "知识库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archlinux  LNMP.md"
+                "file": "知识库.md"
               }
             }
           }
@@ -162,22 +162,52 @@
   },
   "active": "c7c191f02a643cbb",
   "lastOpenFiles": [
-    "时钟.md",
+    "知识库 e89c8e55215542ccb77901f6f4e7b40e/宝藏网站 7baf51a6db2b446e96a5023e18d43bb5.csv.md",
+    "知识库 e89c8e55215542ccb77901f6f4e7b40e/知识库 cc2b2b66136242e8b2889b9f4770599d.csv.md",
+    "知识库.md",
+    "知识库 e89c8e55215542ccb77901f6f4e7b40e",
     "archlinux  LNMP.md",
-    "电源.md",
-    "射频.md",
-    "Top.md",
-    "HFSS.md",
-    "PCIE.md",
-    "Layout.md",
-    "DDR.md",
+    "х╝Ац║РшКВц╡Б 6c8ea3b369c84119ac0db6b8abc34981.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/хАЯцм╛ 7c868d6318d54f8383b39ebf10ff14ca/1000000724.jpg",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/хАЯцм╛ 7c868d6318d54f8383b39ebf10ff14ca/1000000722.jpg",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/хАЯцм╛ 7c868d6318d54f8383b39ebf10ff14ca/1000000721.jpg",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/чФ╡ш╖п чФ╡цДЯ чФ╡хо╣щЫ╢цЮБчВ╣ d577038ddaa74297ac9faf6a90d44ed9.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/чФ╡ц║РчОпш╖п 97e89d8e29564fadb742ea202047fff3.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/хАЯцм╛ 7c868d6318d54f8383b39ebf10ff14ca.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/хАЯцм╛ 7c868d6318d54f8383b39ebf10ff14ca",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/ф╗┐чЬЯ 436a0b29fdb147f988a310fcda901e12.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/winbond has model bd9696952d5043cda67810c19fc4758c.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/onedrive rclone 5ca7e5312a514743afcda6d675fb8aa4.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/lairdtechхЕмхП╕ 236ca809441e4b95bb0852dc60ba55e4.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/https www oldfriend url tw index html 88c2254bc2504ab8b3a4a0ad92fd739f.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/https techclass rohm com cn knowledge si s-si 04-s 9fa35b9a15b64da18e1e6b44df293f46.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/https bbs huaweicloud com blogs 331157 29f1542666c747f09b623c8404d7d79c.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/http www mweda com 163130e4a25b4af787624ea193fbf43e.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/TLVR 4e13ee1f43e3461cbd45a583afe820c0.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/IBIS org eaa560763f0d427f983bf94cc9de9975.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/AMBAцА╗ч║┐ e9c4683dd140460aae9e2ddee415f6ec.md",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153",
+    "Quick Note 64478b51ca2a40b5b7c1b23611d89153.md",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/Python 527575046ffb42f5bb765501c4226962/Packages 54569afa8ffd4200954662ca61ea15d7/packages c7b430b57fa74aaaa80a4b1da53859c5/opencc 0a7c8994537547f6b9a9f7b45a1dccb7.md",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/Python 527575046ffb42f5bb765501c4226962/Packages 54569afa8ffd4200954662ca61ea15d7/packages c7b430b57fa74aaaa80a4b1da53859c5/Untitled bbe13f21a59a4084ab7c61162bda7269.md",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/Python 527575046ffb42f5bb765501c4226962/Packages 54569afa8ffd4200954662ca61ea15d7/packages c7b430b57fa74aaaa80a4b1da53859c5/Untitled 5360fb86e4ef459b9025958581c89500.md",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/Python 527575046ffb42f5bb765501c4226962/Packages 54569afa8ffd4200954662ca61ea15d7/packages c7b430b57fa74aaaa80a4b1da53859c5_all.csv",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/Python 527575046ffb42f5bb765501c4226962/Packages 54569afa8ffd4200954662ca61ea15d7/packages c7b430b57fa74aaaa80a4b1da53859c5.csv",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/Python 527575046ffb42f5bb765501c4226962/Packages 54569afa8ffd4200954662ca61ea15d7/packages c7b430b57fa74aaaa80a4b1da53859c5",
+    "知识库/Untitled Database d0f81a2fa77d4a08bb42de5a304ab0b6/Untitled 20de4602a3dc470fbcdb1ec848630d95/2021х╣┤┬╖цЬ║цв░щФочЫШхЕещЧихПКщАЙш┤нцМЗхНЧя╝И3цЬИцЫ┤цЦ░я╝Й - чЯеф╣О e5844f33c87545a491b1fcff51e39626/v2-2c98dc15d6c8ea293a10eb0dce4cf940_180x120.jpg",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/цЬНхКбхЩи 75ea35ead3f1488d8ccaf448166202f1/nginxцЬНхКбхЩи ed1a3936c259431db5cda5f04d599b8e.md",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/цЬНхКбхЩи 75ea35ead3f1488d8ccaf448166202f1/VPSцЬНхКбхЩи 5c84a20c74e84f12814f6fe2542f09fb.md",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/цЬНхКбхЩи 75ea35ead3f1488d8ccaf448166202f1/PHP 262b6e833497424faa3a1c849501d6ad.md",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/ф╗гчРЖ a5031c731e6b4a168ddcf5d61c7096a9/Screenshot_20210618-220319.png",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/Python 527575046ffb42f5bb765501c4226962/Packages 54569afa8ffd4200954662ca61ea15d7",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/ANSYSчФ╡чгБх░ДщвСф╗┐чЬЯхЕещЧи_хУФхУйхУФхУй_bilibili 473468362f33490a89a90206fa4aca0d/missing.png",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/ANSYS HFSSщлШщвСчФ╡чгБф┐бхП╖хнжф╣ач▓╛хУБцХЩчиЛ_хУФхУйхУФхУй_bilibili 788b36dfd0bf4678a8b56c8a776724b0/missing.png",
+    "知识库/Untitled Database d0f81a2fa77d4a08bb42de5a304ab0b6/Untitled 20de4602a3dc470fbcdb1ec848630d95/2021х╣┤┬╖цЬ║цв░щФочЫШхЕещЧихПКщАЙш┤нцМЗхНЧя╝И3цЬИцЫ┤цЦ░я╝Й - чЯеф╣О e5844f33c87545a491b1fcff51e39626",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/цЬНхКбхЩи 75ea35ead3f1488d8ccaf448166202f1",
+    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/ф╗гчРЖ a5031c731e6b4a168ddcf5d61c7096a9",
+    "知识库/Magisk d830398f35224722836819207ed13001/Untitled.png",
     "Picture/Pasted image 20230917173719.png",
     "Picture/Pasted image 20230917173559.png",
-    "Picture",
-    "SI.md",
-    "Picture/Pasted image 20230917171447.png",
-    "Picture/Pasted image 20230917171403.png",
-    "README.md",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 1.canvas",
