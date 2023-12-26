@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "时钟.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7c191f02a643cbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库.md",
+                "file": "Notion/Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(9)-信号/Untitled Database/SIGABRT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库.md",
+                "file": "Notion/Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(9)-信号/Untitled Database/SIGABRT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库.md",
+                "file": "Notion/Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(9)-信号/Untitled Database/SIGABRT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库.md"
+                "file": "Notion/Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(9)-信号/Untitled Database/SIGABRT.md"
               }
             }
           }
@@ -157,57 +144,58 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c7c191f02a643cbb",
+  "active": "47d12c0017483495",
   "lastOpenFiles": [
-    "知识库 e89c8e55215542ccb77901f6f4e7b40e/宝藏网站 7baf51a6db2b446e96a5023e18d43bb5.csv.md",
-    "知识库 e89c8e55215542ccb77901f6f4e7b40e/知识库 cc2b2b66136242e8b2889b9f4770599d.csv.md",
+    "Notion/Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程.md",
+    "Notion/Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(2)-UNIX标准及其实现.md",
+    "Notion/Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(14)-进程间通信.md",
     "知识库.md",
-    "知识库 e89c8e55215542ccb77901f6f4e7b40e",
-    "archlinux  LNMP.md",
-    "х╝Ац║РшКВц╡Б 6c8ea3b369c84119ac0db6b8abc34981.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/хАЯцм╛ 7c868d6318d54f8383b39ebf10ff14ca/1000000724.jpg",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/хАЯцм╛ 7c868d6318d54f8383b39ebf10ff14ca/1000000722.jpg",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/хАЯцм╛ 7c868d6318d54f8383b39ebf10ff14ca/1000000721.jpg",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/чФ╡ш╖п чФ╡цДЯ чФ╡хо╣щЫ╢цЮБчВ╣ d577038ddaa74297ac9faf6a90d44ed9.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/чФ╡ц║РчОпш╖п 97e89d8e29564fadb742ea202047fff3.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/хАЯцм╛ 7c868d6318d54f8383b39ebf10ff14ca.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/хАЯцм╛ 7c868d6318d54f8383b39ebf10ff14ca",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/ф╗┐чЬЯ 436a0b29fdb147f988a310fcda901e12.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/winbond has model bd9696952d5043cda67810c19fc4758c.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/onedrive rclone 5ca7e5312a514743afcda6d675fb8aa4.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/lairdtechхЕмхП╕ 236ca809441e4b95bb0852dc60ba55e4.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/https www oldfriend url tw index html 88c2254bc2504ab8b3a4a0ad92fd739f.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/https techclass rohm com cn knowledge si s-si 04-s 9fa35b9a15b64da18e1e6b44df293f46.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/https bbs huaweicloud com blogs 331157 29f1542666c747f09b623c8404d7d79c.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/http www mweda com 163130e4a25b4af787624ea193fbf43e.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/TLVR 4e13ee1f43e3461cbd45a583afe820c0.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/IBIS org eaa560763f0d427f983bf94cc9de9975.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153/AMBAцА╗ч║┐ e9c4683dd140460aae9e2ddee415f6ec.md",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153",
-    "Quick Note 64478b51ca2a40b5b7c1b23611d89153.md",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/Python 527575046ffb42f5bb765501c4226962/Packages 54569afa8ffd4200954662ca61ea15d7/packages c7b430b57fa74aaaa80a4b1da53859c5/opencc 0a7c8994537547f6b9a9f7b45a1dccb7.md",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/Python 527575046ffb42f5bb765501c4226962/Packages 54569afa8ffd4200954662ca61ea15d7/packages c7b430b57fa74aaaa80a4b1da53859c5/Untitled bbe13f21a59a4084ab7c61162bda7269.md",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/Python 527575046ffb42f5bb765501c4226962/Packages 54569afa8ffd4200954662ca61ea15d7/packages c7b430b57fa74aaaa80a4b1da53859c5/Untitled 5360fb86e4ef459b9025958581c89500.md",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/Python 527575046ffb42f5bb765501c4226962/Packages 54569afa8ffd4200954662ca61ea15d7/packages c7b430b57fa74aaaa80a4b1da53859c5_all.csv",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/Python 527575046ffb42f5bb765501c4226962/Packages 54569afa8ffd4200954662ca61ea15d7/packages c7b430b57fa74aaaa80a4b1da53859c5.csv",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/Python 527575046ffb42f5bb765501c4226962/Packages 54569afa8ffd4200954662ca61ea15d7/packages c7b430b57fa74aaaa80a4b1da53859c5",
-    "知识库/Untitled Database d0f81a2fa77d4a08bb42de5a304ab0b6/Untitled 20de4602a3dc470fbcdb1ec848630d95/2021х╣┤┬╖цЬ║цв░щФочЫШхЕещЧихПКщАЙш┤нцМЗхНЧя╝И3цЬИцЫ┤цЦ░я╝Й - чЯеф╣О e5844f33c87545a491b1fcff51e39626/v2-2c98dc15d6c8ea293a10eb0dce4cf940_180x120.jpg",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/цЬНхКбхЩи 75ea35ead3f1488d8ccaf448166202f1/nginxцЬНхКбхЩи ed1a3936c259431db5cda5f04d599b8e.md",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/цЬНхКбхЩи 75ea35ead3f1488d8ccaf448166202f1/VPSцЬНхКбхЩи 5c84a20c74e84f12814f6fe2542f09fb.md",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/цЬНхКбхЩи 75ea35ead3f1488d8ccaf448166202f1/PHP 262b6e833497424faa3a1c849501d6ad.md",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/ф╗гчРЖ a5031c731e6b4a168ddcf5d61c7096a9/Screenshot_20210618-220319.png",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/Python 527575046ffb42f5bb765501c4226962/Packages 54569afa8ffd4200954662ca61ea15d7",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/ANSYSчФ╡чгБх░ДщвСф╗┐чЬЯхЕещЧи_хУФхУйхУФхУй_bilibili 473468362f33490a89a90206fa4aca0d/missing.png",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/ANSYS HFSSщлШщвСчФ╡чгБф┐бхП╖хнжф╣ач▓╛хУБцХЩчиЛ_хУФхУйхУФхУй_bilibili 788b36dfd0bf4678a8b56c8a776724b0/missing.png",
-    "知识库/Untitled Database d0f81a2fa77d4a08bb42de5a304ab0b6/Untitled 20de4602a3dc470fbcdb1ec848630d95/2021х╣┤┬╖цЬ║цв░щФочЫШхЕещЧихПКщАЙш┤нцМЗхНЧя╝И3цЬИцЫ┤цЦ░я╝Й - чЯеф╣О e5844f33c87545a491b1fcff51e39626",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/цЬНхКбхЩи 75ea35ead3f1488d8ccaf448166202f1",
-    "知识库/чЯешпЖх║У cc2b2b66136242e8b2889b9f4770599d/ф╗гчРЖ a5031c731e6b4a168ddcf5d61c7096a9",
-    "知识库/Magisk d830398f35224722836819207ed13001/Untitled.png",
-    "Picture/Pasted image 20230917173719.png",
-    "Picture/Pasted image 20230917173559.png",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 12.png",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 11.png",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 10.png",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 9.png",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 8.png",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Screenshot_2020-11-08_212414.jpg",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 7.png",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 6.png",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 5.png",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Screenshot_2020-11-08_202609.jpg",
+    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/Picture/封装 34fd202000d74e4083fb137ba044cb76.pdf",
+    "Notion/首页/理论学习成长/硬件设计/硬件设计/书籍/Picture/highspeed.eddx",
+    "Notion/首页/理论学习成长/硬件设计/硬件设计/硬件测试/Picture/yolov3.weights",
+    "Notion/首页/人生管理/个人履历/Job Applications/个人基础/Picture/---.pdf",
+    "Notion/首页/硬件设计/LS2088A/Datasheet/Picture/tps53647.pdf",
+    "Notion/首页/人生管理/个人履历/Job Applications/求职进展/南京宙讯微电子/Picture/2021.docx",
+    "Notion/首页/人生管理/个人履历/Job Applications/Applications/Acme, Inc/Picture/resume.pdf",
+    "Notion/知识库/aliyun webdav/Picture/rclone-aliyun.bat",
+    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/差模增益.md",
+    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输出阻抗.md",
+    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/共模增益.md",
+    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/噪声.md",
+    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/带宽.md",
+    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入阻抗.md",
+    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/动态范围.md",
+    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入失调电流.md",
+    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入失调电压.md",
+    "Notion/首页/理论学习成长/硬件设计/知识库/封装库/表贴电阻/SMD电阻/Untitled 3.md",
+    "Notion/首页/理论学习成长/硬件设计/知识库/封装库/表贴电阻/SMD电阻/Untitled 2.md",
+    "Notion/首页/理论学习成长/硬件设计/知识库/封装库/表贴电阻/SMD电阻/Untitled.md",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/工作队列.md",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/软中断.md",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/tasklet.md",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/快速排序.md",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/最好.md",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/计数排序.md",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/选择排序.md",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/希尔排序.md",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/堆排序.md",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/交换排序.md",
+    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture",
+    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/传感器/超声波传感器/Picture",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 1.canvas",
