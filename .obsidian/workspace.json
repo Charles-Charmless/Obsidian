@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "76059c5cfb04cbfb",
+        "id": "6dbf3ed97b8bc7a1",
         "type": "tabs",
         "children": [
           {
-            "id": "47d12c0017483495",
+            "id": "252539af7b64a6da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notion/Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(9)-信号/Untitled Database/SIGABRT.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(9)-信号/Untitled Database/SIGABRT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(9)-信号/Untitled Database/SIGABRT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notion/Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(9)-信号/Untitled Database/SIGABRT.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,59 +140,59 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "47d12c0017483495",
+  "active": "ff0f4a2f8dbce1ab",
   "lastOpenFiles": [
-    "Notion/Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程.md",
-    "Notion/Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(2)-UNIX标准及其实现.md",
-    "Notion/Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(14)-进程间通信.md",
-    "知识库.md",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 12.png",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 11.png",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 10.png",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 9.png",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 8.png",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Screenshot_2020-11-08_212414.jpg",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 7.png",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 6.png",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 5.png",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Screenshot_2020-11-08_202609.jpg",
-    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/Picture/封装 34fd202000d74e4083fb137ba044cb76.pdf",
-    "Notion/首页/理论学习成长/硬件设计/硬件设计/书籍/Picture/highspeed.eddx",
-    "Notion/首页/理论学习成长/硬件设计/硬件设计/硬件测试/Picture/yolov3.weights",
-    "Notion/首页/人生管理/个人履历/Job Applications/个人基础/Picture/---.pdf",
-    "Notion/首页/硬件设计/LS2088A/Datasheet/Picture/tps53647.pdf",
-    "Notion/首页/人生管理/个人履历/Job Applications/求职进展/南京宙讯微电子/Picture/2021.docx",
-    "Notion/首页/人生管理/个人履历/Job Applications/Applications/Acme, Inc/Picture/resume.pdf",
-    "Notion/知识库/aliyun webdav/Picture/rclone-aliyun.bat",
-    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/差模增益.md",
-    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输出阻抗.md",
-    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/共模增益.md",
-    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/噪声.md",
-    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/带宽.md",
-    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入阻抗.md",
-    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/动态范围.md",
-    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入失调电流.md",
-    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入失调电压.md",
-    "Notion/首页/理论学习成长/硬件设计/知识库/封装库/表贴电阻/SMD电阻/Untitled 3.md",
-    "Notion/首页/理论学习成长/硬件设计/知识库/封装库/表贴电阻/SMD电阻/Untitled 2.md",
-    "Notion/首页/理论学习成长/硬件设计/知识库/封装库/表贴电阻/SMD电阻/Untitled.md",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/工作队列.md",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/软中断.md",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/tasklet.md",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/快速排序.md",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/最好.md",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/计数排序.md",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/选择排序.md",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/希尔排序.md",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/堆排序.md",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/交换排序.md",
-    "Notion/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture",
-    "Notion/首页/理论学习成长/硬件设计/硬件修炼之路/传感器/超声波传感器/Picture",
+    "首页.md",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled.png",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 9.png",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 8.png",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 7.png",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 6.png",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 5.png",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 4.png",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 3.png",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 2.png",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 11.png",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输出阻抗.md",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入阻抗.md",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入失调电流.md",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入失调电压.md",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/带宽.md",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/差模增益.md",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/噪声.md",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/动态范围.md",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/共模增益.md",
+    "首页/理论学习成长/硬件设计/知识库/封装库/表贴电阻/SMD电阻/Untitled.md",
+    "首页/理论学习成长/硬件设计/知识库/封装库/表贴电阻/SMD电阻/Untitled 3.md",
+    "首页/理论学习成长/硬件设计/知识库/封装库/表贴电阻/SMD电阻/Untitled 2.md",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/计算机控制.md",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/选择排序.md",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/软中断.md",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/计数排序.md",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/最好.md",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/插入排序.md",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/快速排序.md",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/希尔排序.md",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/工作队列.md",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/堆排序.md",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/冒泡排序.md",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/其他.md",
+    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/交换排序.md",
+    "首页/人生管理/个人履历/Job Applications/求职进展/南京宙讯微电子/Picture/2021.docx",
+    "首页/人生管理/个人履历/Job Applications/Applications/Acme, Inc/Picture/resume.pdf",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/概述/Picture",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/Picture",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/绝缘栅双极晶体管(IGBT)/Picture",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/场效应管(MOSFET)/Picture",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/二极管/Picture",
+    "首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/三极管/Picture",
+    "未命名.canvas",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 1.canvas",
     "未命名 3.canvas",
-    "未命名 2.canvas",
-    "未命名.canvas"
+    "未命名 2.canvas"
   ]
 }
