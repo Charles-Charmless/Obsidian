@@ -14,7 +14,7 @@ sudo systemctl enable nginx
 
 #### NGINX配置
 配置文件路径：/etc/nginx/nginx.conf
-
+nginx配置工具： 
 
 
 
