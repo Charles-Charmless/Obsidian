@@ -11,8 +11,10 @@
             "id": "252539af7b64a6da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Picture/Pasted image 20230917173719.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Picture/Pasted image 20230917173719.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Picture/Pasted image 20230917173719.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Picture/Pasted image 20230917173719.png"
+              }
             }
           }
         ],
@@ -140,8 +146,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ff0f4a2f8dbce1ab",
+  "active": "252539af7b64a6da",
   "lastOpenFiles": [
+    "Picture/Pasted image 20230917173559.png",
+    "Picture/Pasted image 20230917171447.png",
+    "Picture/Pasted image 20230917171403.png",
+    "Arm linux修炼之路/BootLoader/BootLoader.md",
     "首页.md",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled.png",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 9.png",
@@ -151,8 +161,6 @@
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 5.png",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 4.png",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 3.png",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 2.png",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 11.png",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输出阻抗.md",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入阻抗.md",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入失调电流.md",
@@ -177,8 +185,6 @@
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/工作队列.md",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/堆排序.md",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/冒泡排序.md",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/其他.md",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/交换排序.md",
     "首页/人生管理/个人履历/Job Applications/求职进展/南京宙讯微电子/Picture/2021.docx",
     "首页/人生管理/个人履历/Job Applications/Applications/Acme, Inc/Picture/resume.pdf",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/概述/Picture",
