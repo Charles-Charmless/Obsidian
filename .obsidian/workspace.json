@@ -11,9 +11,11 @@
             "id": "252539af7b64a6da",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Picture/Pasted image 20230917173719.png"
+                "file": "archlinux  LNMP.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Picture/Pasted image 20230917173719.png",
+                "file": "archlinux  LNMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Picture/Pasted image 20230917173719.png",
+                "file": "archlinux  LNMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Picture/Pasted image 20230917173719.png"
+                "file": "archlinux  LNMP.md"
               }
             }
           }
@@ -148,19 +150,32 @@
   },
   "active": "252539af7b64a6da",
   "lastOpenFiles": [
+    "首页/人生管理/个人履历/Job Applications/个人基础/个人基础.md",
+    "首页/Calender/请马金娣吃饭.md",
+    "首页/Calender/给爸妈买保险.md",
+    "首页/Calender/整理财务.md",
+    "首页/Calender/广发 +300.md",
+    "首页/Calender/平安转型 +500.md",
+    "首页/Calender/复习控制原理和模电.md",
+    "首页/Calender/前海开源 200.md",
+    "首页/Calender/中融低碳 200.md",
+    "首页/Calender/万家沪深 +400.md",
+    "首页/Calender/Untitled.md",
+    "娱乐.md",
+    "首页.md",
+    "Top.md",
+    "Top 2.md",
+    "Picture/Pasted image 20230917173719.png",
     "Picture/Pasted image 20230917173559.png",
     "Picture/Pasted image 20230917171447.png",
     "Picture/Pasted image 20230917171403.png",
     "Arm linux修炼之路/BootLoader/BootLoader.md",
-    "首页.md",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled.png",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 9.png",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 8.png",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 7.png",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 6.png",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 5.png",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 4.png",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 3.png",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输出阻抗.md",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入阻抗.md",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入失调电流.md",
@@ -171,20 +186,7 @@
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/动态范围.md",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/共模增益.md",
     "首页/理论学习成长/硬件设计/知识库/封装库/表贴电阻/SMD电阻/Untitled.md",
-    "首页/理论学习成长/硬件设计/知识库/封装库/表贴电阻/SMD电阻/Untitled 3.md",
-    "首页/理论学习成长/硬件设计/知识库/封装库/表贴电阻/SMD电阻/Untitled 2.md",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/计算机控制.md",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/选择排序.md",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/软中断.md",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/计数排序.md",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/最好.md",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/插入排序.md",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/快速排序.md",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/希尔排序.md",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/工作队列.md",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/堆排序.md",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/Untitled Database/冒泡排序.md",
     "首页/人生管理/个人履历/Job Applications/求职进展/南京宙讯微电子/Picture/2021.docx",
     "首页/人生管理/个人履历/Job Applications/Applications/Acme, Inc/Picture/resume.pdf",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/概述/Picture",
