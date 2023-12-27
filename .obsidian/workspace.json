@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6dbf3ed97b8bc7a1",
+        "id": "ca59b296575a71a4",
         "type": "tabs",
         "children": [
           {
-            "id": "252539af7b64a6da",
+            "id": "9577213e01659ed9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archlinux  LNMP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archlinux  LNMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archlinux  LNMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "archlinux  LNMP.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,8 +140,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "252539af7b64a6da",
+  "active": "9577213e01659ed9",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "archlinux  LNMP.md",
     "首页/人生管理/个人履历/Job Applications/个人基础/个人基础.md",
     "首页/Calender/请马金娣吃饭.md",
     "首页/Calender/给爸妈买保险.md",
@@ -184,8 +178,6 @@
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/差模增益.md",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/噪声.md",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/动态范围.md",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/共模增益.md",
-    "首页/理论学习成长/硬件设计/知识库/封装库/表贴电阻/SMD电阻/Untitled.md",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture",
     "首页/人生管理/个人履历/Job Applications/求职进展/南京宙讯微电子/Picture/2021.docx",
     "首页/人生管理/个人履历/Job Applications/Applications/Acme, Inc/Picture/resume.pdf",
@@ -196,7 +188,6 @@
     "首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/场效应管(MOSFET)/Picture",
     "首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/二极管/Picture",
     "首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/三极管/Picture",
-    "未命名.canvas",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 1.canvas",
