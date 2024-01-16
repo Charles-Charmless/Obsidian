@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2413a2a3b3103a4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LNMP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "LNMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python.md",
+                "file": "LNMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.md"
+                "file": "LNMP.md"
               }
             }
           }
@@ -162,10 +174,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b9469ec057a5b8b5",
+  "active": "2413a2a3b3103a4e",
   "lastOpenFiles": [
-    "Top.md",
     "Python.md",
+    "LNMP.md",
+    "Top.md",
     "未命名.canvas",
     "archlinux  LNMP.md",
     "首页/人生管理/个人履历/Job Applications/个人基础/个人基础.md",
@@ -200,7 +213,6 @@
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/带宽.md",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/差模增益.md",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/噪声.md",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/动态范围.md",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture",
     "首页/人生管理/个人履历/Job Applications/求职进展/南京宙讯微电子/Picture/2021.docx",
     "首页/人生管理/个人履历/Job Applications/Applications/Acme, Inc/Picture/resume.pdf",

@@ -14,7 +14,7 @@
 
 [[网络连接]]
 
-[[LNMP]]
+[[首页/理论学习成长/Linux/Linux/LNMP]]
 
 [[makepkg]]
 
