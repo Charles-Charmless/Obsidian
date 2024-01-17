@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LNMP.md",
+                "file": "Arm linux修炼之路/Arm linux修炼之路.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a0827d03309621a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shell脚本.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LNMP.md",
+                "file": "shell脚本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LNMP.md",
+                "file": "shell脚本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LNMP.md"
+                "file": "shell脚本.md"
               }
             }
           }
@@ -174,10 +186,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2413a2a3b3103a4e",
+  "active": "6a0827d03309621a",
   "lastOpenFiles": [
-    "Python.md",
+    "Arm linux修炼之路/Arm linux修炼之路.md",
+    "shell脚本.md",
+    "Arm linux修炼之路/SHELL脚本/Linux-shell图形桌面脚本编程.md",
+    "Arm linux修炼之路/SHELL脚本/SHELL脚本.md",
     "LNMP.md",
+    "Python.md",
     "Top.md",
     "未命名.canvas",
     "archlinux  LNMP.md",
@@ -209,10 +225,6 @@
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输出阻抗.md",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入阻抗.md",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入失调电流.md",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入失调电压.md",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/带宽.md",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/差模增益.md",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/噪声.md",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture",
     "首页/人生管理/个人履历/Job Applications/求职进展/南京宙讯微电子/Picture/2021.docx",
     "首页/人生管理/个人履历/Job Applications/Applications/Acme, Inc/Picture/resume.pdf",

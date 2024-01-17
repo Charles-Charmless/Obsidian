@@ -10,7 +10,7 @@
 
 [[算法知识]]
 
-[[SHELL脚本]]
+[[Arm linux修炼之路/SHELL脚本/SHELL脚本]]
 
 # 核心
 
