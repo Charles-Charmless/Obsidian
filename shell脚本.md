@@ -1,7 +1,7 @@
 
-###变量
+### 变量
 ```
-variable
+variable=`command`
 variable=$(command)
 ```
 
