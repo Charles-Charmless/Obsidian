@@ -4,59 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "ca59b296575a71a4",
+        "id": "f3ddbde3665a6b62",
         "type": "tabs",
         "children": [
           {
-            "id": "9577213e01659ed9",
+            "id": "f29701854058d22f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Top.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9469ec057a5b8b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2413a2a3b3103a4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arm linux修炼之路/Arm linux修炼之路.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a0827d03309621a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LNMP.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LNMP.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LNMP.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LNMP.md"
+                "file": "未命名.canvas"
               }
             }
           }
@@ -186,16 +152,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6a0827d03309621a",
+  "active": "f29701854058d22f",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "LNMP.md",
     "shell脚本.md",
     "Arm linux修炼之路/Arm linux修炼之路.md",
     "Arm linux修炼之路/SHELL脚本/Linux-shell图形桌面脚本编程.md",
     "Arm linux修炼之路/SHELL脚本/SHELL脚本.md",
-    "LNMP.md",
     "Python.md",
     "Top.md",
-    "未命名.canvas",
     "archlinux  LNMP.md",
     "首页/人生管理/个人履历/Job Applications/个人基础/个人基础.md",
     "首页/Calender/请马金娣吃饭.md",
@@ -224,7 +190,6 @@
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 5.png",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输出阻抗.md",
     "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入阻抗.md",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入失调电流.md",
     "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture",
     "首页/人生管理/个人履历/Job Applications/求职进展/南京宙讯微电子/Picture/2021.docx",
     "首页/人生管理/个人履历/Job Applications/Applications/Acme, Inc/Picture/resume.pdf",
