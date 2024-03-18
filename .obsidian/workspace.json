@@ -8,17 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f29701854058d22f",
+            "id": "456982421347ea2c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Wiki/未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "计划.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/未命名.canvas",
+                "file": "计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/未命名.canvas",
+                "file": "计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/未命名.canvas"
+                "file": "计划.md"
               }
             }
           }
@@ -153,12 +150,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ff0f4a2f8dbce1ab",
+  "active": "456982421347ea2c",
   "lastOpenFiles": [
+    "Wiki/未命名.canvas",
+    "计划.md",
     "人生",
     "Wiki",
     "Wiki/HFSS.md",
-    "Wiki/未命名.canvas",
     "Wiki/LNMP.md",
     "Wiki/shell脚本.md",
     "Wiki/Arm linux修炼之路/Arm linux修炼之路.md",
@@ -192,7 +190,6 @@
     "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 7.png",
     "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 6.png",
     "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 5.png",
-    "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输出阻抗.md",
     "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture",
     "Wiki/首页/人生管理/个人履历/Job Applications/求职进展/南京宙讯微电子/Picture/2021.docx",
     "Wiki/首页/人生管理/个人履历/Job Applications/Applications/Acme, Inc/Picture/resume.pdf",
@@ -201,7 +198,6 @@
     "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/Picture",
     "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/绝缘栅双极晶体管(IGBT)/Picture",
     "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/场效应管(MOSFET)/Picture",
-    "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/二极管/Picture",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 1.canvas",
