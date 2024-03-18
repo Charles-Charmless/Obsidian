@@ -11,11 +11,14 @@
             "id": "f29701854058d22f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "HFSS.md",
-                "mode": "source",
-                "source": false
+                "file": "Wiki/未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HFSS.md",
+                "file": "Wiki/未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HFSS.md",
+                "file": "Wiki/未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HFSS.md"
+                "file": "Wiki/未命名.canvas"
               }
             }
           }
@@ -146,21 +149,25 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "f29701854058d22f",
+  "active": "ff0f4a2f8dbce1ab",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "LNMP.md",
-    "shell脚本.md",
-    "Arm linux修炼之路/Arm linux修炼之路.md",
-    "Arm linux修炼之路/SHELL脚本/Linux-shell图形桌面脚本编程.md",
-    "Arm linux修炼之路/SHELL脚本/SHELL脚本.md",
-    "Python.md",
-    "Top.md",
-    "archlinux  LNMP.md",
-    "首页/人生管理/个人履历/Job Applications/个人基础/个人基础.md",
+    "人生",
+    "Wiki",
+    "Wiki/HFSS.md",
+    "Wiki/未命名.canvas",
+    "Wiki/LNMP.md",
+    "Wiki/shell脚本.md",
+    "Wiki/Arm linux修炼之路/Arm linux修炼之路.md",
+    "Wiki/Arm linux修炼之路/SHELL脚本/Linux-shell图形桌面脚本编程.md",
+    "Wiki/Arm linux修炼之路/SHELL脚本/SHELL脚本.md",
+    "Wiki/Python.md",
+    "Wiki/Top.md",
+    "Wiki/archlinux  LNMP.md",
+    "Wiki/首页/人生管理/个人履历/Job Applications/个人基础/个人基础.md",
     "首页/Calender/请马金娣吃饭.md",
     "首页/Calender/给爸妈买保险.md",
     "首页/Calender/整理财务.md",
@@ -171,32 +178,30 @@
     "首页/Calender/中融低碳 200.md",
     "首页/Calender/万家沪深 +400.md",
     "首页/Calender/Untitled.md",
-    "娱乐.md",
+    "Wiki/娱乐.md",
     "首页.md",
     "Top 2.md",
-    "Picture/Pasted image 20230917173719.png",
-    "Picture/Pasted image 20230917173559.png",
-    "Picture/Pasted image 20230917171447.png",
-    "Picture/Pasted image 20230917171403.png",
-    "Arm linux修炼之路/BootLoader/BootLoader.md",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled.png",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 9.png",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 8.png",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 7.png",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 6.png",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 5.png",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输出阻抗.md",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输入阻抗.md",
-    "首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture",
-    "首页/人生管理/个人履历/Job Applications/求职进展/南京宙讯微电子/Picture/2021.docx",
-    "首页/人生管理/个人履历/Job Applications/Applications/Acme, Inc/Picture/resume.pdf",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/概述/Picture",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/Picture",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/绝缘栅双极晶体管(IGBT)/Picture",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/场效应管(MOSFET)/Picture",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/二极管/Picture",
-    "首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/三极管/Picture",
+    "Wiki/Picture/Pasted image 20230917173719.png",
+    "Wiki/Picture/Pasted image 20230917173559.png",
+    "Wiki/Picture/Pasted image 20230917171447.png",
+    "Wiki/Picture/Pasted image 20230917171403.png",
+    "Wiki/Arm linux修炼之路/BootLoader/BootLoader.md",
+    "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled.png",
+    "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 9.png",
+    "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 8.png",
+    "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 7.png",
+    "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 6.png",
+    "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 5.png",
+    "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源/输出阻抗.md",
+    "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture",
+    "Wiki/首页/人生管理/个人履历/Job Applications/求职进展/南京宙讯微电子/Picture/2021.docx",
+    "Wiki/首页/人生管理/个人履历/Job Applications/Applications/Acme, Inc/Picture/resume.pdf",
+    "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/概述/Picture",
+    "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源",
+    "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/Picture",
+    "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/绝缘栅双极晶体管(IGBT)/Picture",
+    "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/场效应管(MOSFET)/Picture",
+    "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/二极管/Picture",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 1.canvas",
