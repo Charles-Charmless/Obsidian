@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07547b72f707c427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FreshRss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计划.md",
+                "file": "FreshRss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计划.md",
+                "file": "FreshRss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计划.md"
+                "file": "FreshRss.md"
               }
             }
           }
@@ -150,10 +163,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "456982421347ea2c",
+  "active": "07547b72f707c427",
   "lastOpenFiles": [
-    "Wiki/未命名.canvas",
     "计划.md",
+    "FreshRss.md",
+    "Wiki/未命名.canvas",
     "人生",
     "Wiki",
     "Wiki/HFSS.md",
