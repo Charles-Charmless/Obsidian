@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Arm linux修炼之路/Linux内核/Linux内核.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -175,8 +175,9 @@
   "active": "7957b17f1688374f",
   "lastOpenFiles": [
     "Arm linux修炼之路/Linux内核/Linux内核.md",
-    "Arm linux修炼之路/Linux内核/内核函数.md",
+    "Arm linux修炼之路/Linux内核/hello world!程序.md",
     "Arm linux修炼之路/Linux内核/内核编程.md",
+    "Arm linux修炼之路/Linux内核/内核函数.md",
     "SMbus.md",
     "Wiki/Arm linux修炼之路/Linux内核/Linux内核.md",
     "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(4)-文件和目录/Untitled Database/权限规则：.md",
@@ -199,7 +200,6 @@
     "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(4)-文件和目录/Untitled Database/unlink.md",
     "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(4)-文件和目录/Untitled Database/unlink 2.md",
     "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(4)-文件和目录/Untitled Database/truncate.md",
-    "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(4)-文件和目录/Untitled Database/truncate,ftruncate.md",
     "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(9)-信号/Untitled Database",
     "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(8)-进程关系/Untitled Database",
     "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(6)-进程环境/Untitled Database",
