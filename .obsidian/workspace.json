@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "人生理财/理财知识/理财知识.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 257.5
   },
   "right": {
     "id": "8ea5532d797d1b26",
