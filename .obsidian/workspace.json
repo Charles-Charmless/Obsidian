@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,7 +149,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "456982421347ea2c",
+  "active": "ff0f4a2f8dbce1ab",
   "lastOpenFiles": [
     "人生理财/理财规划收益.md",
     "计划.md",
