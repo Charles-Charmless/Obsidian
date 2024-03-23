@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7957b17f1688374f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arm linux修炼之路/Linux内核/内核编程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arm linux修炼之路/Linux内核/Linux内核.md",
+                "file": "Arm linux修炼之路/Linux内核/内核编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arm linux修炼之路/Linux内核/Linux内核.md",
+                "file": "Arm linux修炼之路/Linux内核/内核编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arm linux修炼之路/Linux内核/Linux内核.md"
+                "file": "Arm linux修炼之路/Linux内核/内核编程.md"
               }
             }
           }
@@ -160,10 +172,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "72328e7b4728efee",
+  "active": "7957b17f1688374f",
   "lastOpenFiles": [
-    "Arm linux修炼之路/Linux内核/内核函数.md",
     "Arm linux修炼之路/Linux内核/Linux内核.md",
+    "Arm linux修炼之路/Linux内核/内核函数.md",
+    "Arm linux修炼之路/Linux内核/内核编程.md",
     "SMbus.md",
     "Wiki/Arm linux修炼之路/Linux内核/Linux内核.md",
     "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(4)-文件和目录/Untitled Database/权限规则：.md",
@@ -187,7 +200,6 @@
     "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(4)-文件和目录/Untitled Database/unlink 2.md",
     "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(4)-文件和目录/Untitled Database/truncate.md",
     "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(4)-文件和目录/Untitled Database/truncate,ftruncate.md",
-    "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(4)-文件和目录/Untitled Database/struct timespec{  time_t tv_sec;   --seconds long tv_nsec; --mocroseconds};.md",
     "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(9)-信号/Untitled Database",
     "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(8)-进程关系/Untitled Database",
     "Arm linux修炼之路/C语言+汇编/C/UNIX环境高级编程/UNIX环境高级编程(6)-进程环境/Untitled Database",
