@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4cddf1e9f1d4c5e5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shell",
+                "query": "基金",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,55 +164,55 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4cddf1e9f1d4c5e5",
+  "active": "07547b72f707c427",
   "lastOpenFiles": [
-    "计划.md",
-    "FreshRss.md",
+    "Wiki/首页/人生管理/人生理财/理财知识/理财知识.md",
+    "人生理财/理财知识/Picture/Untitled.png",
+    "人生理财/理财知识/Picture/Untitled 3.png",
+    "人生理财/理财知识/Picture/Untitled 2.png",
+    "人生理财/理财知识/Picture/Untitled 1.png",
+    "人生理财/个人积蓄/理财/广发多因子.md",
+    "人生理财/个人积蓄/理财/平安转型.md",
+    "人生理财/个人积蓄/理财/工银瑞信国家战略主题股票.md",
+    "人生理财/个人积蓄/理财/工商银行基金.md",
+    "人生理财/个人积蓄/理财/前海开源股息率100强权重股票.md",
+    "人生理财/个人积蓄/理财/交银趋势基金.md",
+    "人生理财/个人积蓄/理财/中融金融鑫选.md",
+    "人生理财/个人积蓄/理财/中融低碳经济.md",
+    "人生理财/个人积蓄/理财/中国银行定期.md",
+    "人生理财/个人积蓄/理财/中国银行基金.md",
+    "人生理财/个人积蓄/理财/万家沪深300.md",
+    "人生理财/个人积蓄/负债/中行信用卡.md",
+    "人生理财/个人积蓄/2023 03 06/支付宝.md",
+    "人生理财/个人积蓄/2023 03 06/微信.md",
+    "人生理财/个人积蓄/2023 03 06/工商银行.md",
+    "人生理财/个人积蓄/2023 03 06/券商.md",
+    "人生理财/个人积蓄/2023 03 06/信用卡.md",
+    "人生理财/个人积蓄/2023 03 06/中国银行.md",
+    "人生理财/个人积蓄/帐务整理/支付宝.md",
+    "人生理财/个人积蓄/帐务整理/微信余额.md",
+    "人生理财/个人积蓄/帐务整理/广发多因子.md",
+    "人生理财/个人积蓄/帐务整理/平安转型.md",
+    "人生理财/个人积蓄/帐务整理/工银瑞信国家战略主题股票.md",
+    "人生理财/个人积蓄/帐务整理/工商银行基金.md",
+    "人生理财/个人积蓄/帐务整理/工商银行.md",
+    "人生理财/理财知识/Picture",
+    "人生理财/个人积蓄/负债",
+    "人生理财/个人积蓄/理财",
+    "人生理财/个人积蓄/活钱",
+    "人生理财/个人积蓄/帐务整理",
+    "人生理财/个人积蓄/储蓄",
+    "人生理财/个人积蓄/2023 03 06",
+    "人生理财/理财规划收益/Untitled Database",
+    "人生理财/消费记录/收支记录",
+    "人生理财/理财规划收益",
     "Wiki/未命名.canvas",
-    "人生",
-    "Wiki",
-    "Wiki/HFSS.md",
-    "Wiki/LNMP.md",
-    "Wiki/shell脚本.md",
-    "Wiki/Arm linux修炼之路/Arm linux修炼之路.md",
-    "Wiki/Arm linux修炼之路/SHELL脚本/Linux-shell图形桌面脚本编程.md",
-    "Wiki/Arm linux修炼之路/SHELL脚本/SHELL脚本.md",
-    "Wiki/Python.md",
-    "Wiki/Top.md",
-    "Wiki/archlinux  LNMP.md",
-    "Wiki/首页/人生管理/个人履历/Job Applications/个人基础/个人基础.md",
-    "首页/Calender/请马金娣吃饭.md",
-    "首页/Calender/给爸妈买保险.md",
-    "首页/Calender/整理财务.md",
-    "首页/Calender/广发 +300.md",
-    "首页/Calender/平安转型 +500.md",
-    "首页/Calender/复习控制原理和模电.md",
-    "首页/Calender/前海开源 200.md",
-    "首页/Calender/中融低碳 200.md",
-    "首页/Calender/万家沪深 +400.md",
-    "首页/Calender/Untitled.md",
-    "Wiki/娱乐.md",
-    "首页.md",
-    "Top 2.md",
     "Wiki/Picture/Pasted image 20230917173719.png",
     "Wiki/Picture/Pasted image 20230917173559.png",
     "Wiki/Picture/Pasted image 20230917171447.png",
     "Wiki/Picture/Pasted image 20230917171403.png",
-    "Wiki/Arm linux修炼之路/BootLoader/BootLoader.md",
     "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled.png",
     "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 9.png",
-    "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 8.png",
-    "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 7.png",
-    "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 6.png",
-    "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture/Untitled 5.png",
-    "Wiki/首页/人生管理/个人履历/Job Applications/面试/海康威视/计算机控制/Picture",
-    "Wiki/首页/人生管理/个人履历/Job Applications/求职进展/南京宙讯微电子/Picture/2021.docx",
-    "Wiki/首页/人生管理/个人履历/Job Applications/Applications/Acme, Inc/Picture/resume.pdf",
-    "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/概述/Picture",
-    "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/运算放大器件的主要误差源",
-    "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/测控电路/信号放大电路/Picture",
-    "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/绝缘栅双极晶体管(IGBT)/Picture",
-    "Wiki/首页/理论学习成长/硬件设计/硬件修炼之路/基本元器件/场效应管(MOSFET)/Picture",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "未命名 1.canvas",
