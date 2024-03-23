@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 SBBI.md",
+                "file": "人生理财/理财知识/理财知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 SBBI.md",
+                "file": "人生理财/理财知识/理财知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 SBBI.md"
+                "file": "人生理财/理财知识/理财知识.md"
               }
             }
           }
@@ -161,10 +160,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "fd2caf8aba73eeb3",
+  "active": "456982421347ea2c",
   "lastOpenFiles": [
-    "人生理财/理财知识/理财知识.md",
     "2023 SBBI.md",
+    "人生理财/理财知识/理财知识.md",
     "人生理财/理财规划收益.md",
     "计划.md",
     "人生理财/消费记录/消费记录.md",
