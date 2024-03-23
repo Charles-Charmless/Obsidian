@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cddf1e9f1d4c5e5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +173,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "07547b72f707c427",
+  "active": "4cddf1e9f1d4c5e5",
   "lastOpenFiles": [
     "计划.md",
     "FreshRss.md",
