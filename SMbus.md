@@ -6,4 +6,5 @@
 4. I2C没有规定最小时钟频率 ，SMbus最小频率10K，对时钟延展持续的bit数据(始终延展会cover多少个数据周期)和时间也有要求 *（tLOW:CEXT)   (tLOW:TEXT)  tTimeout*
 5. SMbus要求从设备必须ACK
 6. SMbus有规定帧结构（不是所有i2c都支持）
+7. SMbus有低功耗class
 
