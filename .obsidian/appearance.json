@@ -1,7 +1,7 @@
 {
-  "accentColor": "",
+  "accentColor": "#c7a9c6",
   "theme": "obsidian",
   "translucency": false,
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "nativeMenus": true
 }
