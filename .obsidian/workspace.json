@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd2caf8aba73eeb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023 SBBI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生理财/理财知识/理财知识.md",
+                "file": "2023 SBBI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生理财/理财知识/理财知识.md",
+                "file": "2023 SBBI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +138,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生理财/理财知识/理财知识.md"
+                "file": "2023 SBBI.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,8 +161,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ff0f4a2f8dbce1ab",
+  "active": "fd2caf8aba73eeb3",
   "lastOpenFiles": [
+    "人生理财/理财知识/理财知识.md",
+    "2023 SBBI.md",
     "人生理财/理财规划收益.md",
     "计划.md",
     "人生理财/消费记录/消费记录.md",
@@ -179,8 +193,6 @@
     "人生理财/个人积蓄/2023 03 06/工商银行.md",
     "人生理财/个人积蓄/2023 03 06/券商.md",
     "人生理财/个人积蓄/2023 03 06/信用卡.md",
-    "人生理财/个人积蓄/2023 03 06/中国银行.md",
-    "人生理财/个人积蓄/帐务整理/支付宝.md",
     "人生理财/理财知识/Picture",
     "人生理财/个人积蓄/负债",
     "人生理财/个人积蓄/理财",
