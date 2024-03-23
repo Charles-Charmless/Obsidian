@@ -1,7 +1,9 @@
 {
-  "accentColor": "#c7a9c6",
+  "accentColor": "#ffc0cb",
   "theme": "moonstone",
   "translucency": false,
   "cssTheme": "Minimal",
-  "nativeMenus": true
+  "nativeMenus": false,
+  "interfaceFontFamily": "Inter",
+  "baseFontSize": 19
 }

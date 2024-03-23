@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f3ddbde3665a6b62",
+        "id": "9c698b634fbcf290",
         "type": "tabs",
         "children": [
           {
-            "id": "fd2caf8aba73eeb3",
+            "id": "d7616d07aa880111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生理财/理财知识/理财知识.md",
+                "file": "人生理财/人生理财.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72328e7b4728efee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMbus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生理财/理财知识/理财知识.md",
+                "file": "SMbus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生理财/理财知识/理财知识.md",
+                "file": "SMbus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生理财/理财知识/理财知识.md"
+                "file": "SMbus.md"
               }
             }
           }
@@ -138,21 +151,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
+      "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "graph:查看关系图谱": false
+      "graph:查看关系图谱": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "bc802ce957341d6d",
+  "active": "72328e7b4728efee",
   "lastOpenFiles": [
+    "人生理财/人生理财.md",
+    "SMbus.md",
     "人生理财/理财知识/理财知识.md",
     "2023 SBBI.md",
-    "人生理财/人生理财.md",
     "人生理财/理财规划收益.md",
     "计划.md",
     "人生理财/消费记录/消费记录.md",
@@ -179,7 +193,6 @@
     "人生理财/个人积蓄/2023 03 06/微信.md",
     "人生理财/个人积蓄/2023 03 06/工商银行.md",
     "人生理财/个人积蓄/2023 03 06/券商.md",
-    "人生理财/个人积蓄/2023 03 06/信用卡.md",
     "人生理财/理财知识/Picture",
     "人生理财/个人积蓄/负债",
     "人生理财/个人积蓄/理财",
