@@ -147,3 +147,13 @@ menuconfig：使用这个命令的话、如果是新安装的系统就要安装g
 [[hello world!程序]]
 
 [[链表实验]]
+
+
+
+Linux内核编程
+modprobe 
+depmod 
+insmod
+
+
+
