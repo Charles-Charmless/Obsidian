@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计划.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07547b72f707c427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FreshRss.md",
+                "file": "人生理财/理财知识/理财知识.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "基金",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FreshRss.md",
+                "file": "人生理财/理财知识/理财知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FreshRss.md",
+                "file": "人生理财/理财知识/理财知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FreshRss.md"
+                "file": "人生理财/理财知识/理财知识.md"
               }
             }
           }
@@ -164,8 +150,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "07547b72f707c427",
+  "active": "456982421347ea2c",
   "lastOpenFiles": [
+    "人生理财/理财规划收益.md",
+    "计划.md",
+    "人生理财/消费记录/消费记录.md",
+    "人生理财/人生理财.md",
+    "FreshRss.md",
+    "人生理财/个人积蓄.md",
     "Wiki/首页/人生管理/人生理财/理财知识/理财知识.md",
     "人生理财/理财知识/Picture/Untitled.png",
     "人生理财/理财知识/Picture/Untitled 3.png",
@@ -190,12 +182,6 @@
     "人生理财/个人积蓄/2023 03 06/信用卡.md",
     "人生理财/个人积蓄/2023 03 06/中国银行.md",
     "人生理财/个人积蓄/帐务整理/支付宝.md",
-    "人生理财/个人积蓄/帐务整理/微信余额.md",
-    "人生理财/个人积蓄/帐务整理/广发多因子.md",
-    "人生理财/个人积蓄/帐务整理/平安转型.md",
-    "人生理财/个人积蓄/帐务整理/工银瑞信国家战略主题股票.md",
-    "人生理财/个人积蓄/帐务整理/工商银行基金.md",
-    "人生理财/个人积蓄/帐务整理/工商银行.md",
     "人生理财/理财知识/Picture",
     "人生理财/个人积蓄/负债",
     "人生理财/个人积蓄/理财",
