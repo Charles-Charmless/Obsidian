@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 644.5
+    "width": 416.5
   },
   "right": {
     "id": "8ea5532d797d1b26",
@@ -156,7 +156,6 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-importer:Open Importer": false,
       "workspaces:管理工作区布局": false
     }
   },

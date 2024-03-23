@@ -1,8 +1,4 @@
 [
   "obsidian-git",
-  "obsidian-minimal-settings",
-  "obsidian-wordpress",
-  "obsidian-importer",
-  "remotely-save",
-  "todoist-sync-plugin"
+  "remotely-save"
 ]
